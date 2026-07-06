@@ -10,9 +10,6 @@ public class Construct {
 	public static void main(String[] args) {
 		Construct myConst = new Construct();
 		System.out.println(myConst.x);
-		
-		myConst.x = 10;
-		System.out.println(myConst.x);
 	}
 
 }
