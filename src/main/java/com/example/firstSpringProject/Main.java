@@ -1,5 +1,6 @@
 package com.example.firstSpringProject;
 
+import construct.Construct;
 import constructorsEx.ConstructorsEx;
 
 //import myMethods.MyMethodOverloading;
@@ -24,7 +25,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		ConstructorsEx.main(args);
+		Construct.main(args);
+//		ConstructorsEx.main(args);
 
 //		MyMethodOverloading.main(args);
 //		MyMethod2.main(args);
